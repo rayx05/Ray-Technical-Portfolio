@@ -1,4 +1,4 @@
-### Project 1:Depression Prediction Using Machine Learning
+# Project 1:Depression Prediction Using Machine Learning
 
 Predicting depression diagnosis in students using survey data and supervised 
 machine learning models.
