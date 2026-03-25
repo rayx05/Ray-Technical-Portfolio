@@ -56,5 +56,5 @@ Python, pandas, scikit-learn, matplotlib, seaborn, Google Colab
 
 ## How to Run
 
-Open `Depression_Prediction_Machine_Learning.ipynb` in Jupyter or Google Colab.
+Open `Predicting Depression Diagnosis with Survey Result.ipynb` in Jupyter or Google Colab.
 Update the dataset path if running locally.
